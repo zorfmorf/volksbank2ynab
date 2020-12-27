@@ -1,3 +1,6 @@
+# custom: don't commit sensitive bank statements
+*.csv
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
